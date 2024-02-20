@@ -1,6 +1,6 @@
 import React from 'react';
 import { landingPage } from '@/constants';
-import Button from '../_components/ui/Button';
+import Button from '../../_components/ui/Button';
 import Image from 'next/image';
 
 export default function LandingHero() {
